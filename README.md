@@ -1,2 +1,2 @@
-# olyaddegu.github.io
+# snphaconference.github.io
 GitHub Pages
